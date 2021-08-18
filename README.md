@@ -1,8 +1,4 @@
 <h1 align="center">안녕하세요. 백엔드 개발자 김혜수 입니다. 💖</h1>
-<p align="center">
-  <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyesukim@kakao.com-FFCD00?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
 <p align="center">
   Hi there! 👋&nbsp;  I'm <b>web developer</b> using Java. 👩‍💻<br/>
@@ -10,6 +6,12 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
+<h3 align="center"> 📧 Contact</h3>
+<p align="center">
+  <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyesukim@kakao.com-FFCD00?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+<br>
 <h3 align="center"> 🧰 Skills</h3>
 <h4 align="center">Languages & Platforms</h4>
 <p align="center">
@@ -21,7 +23,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <h4 align="center">Tools</h4>
