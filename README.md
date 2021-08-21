@@ -9,7 +9,7 @@
 <h3 align="center"> 📧 Contact</h3>
 <p align="center">
   <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ellahyesu@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:ellahyesu@naver.com" target="_blank"><img src="https://img.shields.io/badge/ellahyesu@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
 <br>
 <h3 align="center"> 🧰 Skills</h3>
