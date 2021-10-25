@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyesu's Portfolio</title>
+    <meta name="description" content="Portfolio for world-renowned software engineer Ella">
+    <meta name="author" content="Hyesu">
+    <link rel="icon" type="image/png" href="./imgs/crown.png">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500&display=swap" rel="stylesheet">
+    <!-- font awesome icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Hind+Madurai:wght@300;400;500;600;700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+
+<body>  
+    <!-- Navbar -->
+    <nav id="navbar">
+        <div class="navbar__logo">
+            <a href="https://github.com/ellahyesu">KHS</a>
+        </div>
+        
+        <ul class="navbar__menu">
+            <li class="navbar__menu__item active" data-link="#home">Home</li>
+            <li class="navbar__menu__item" data-link="#career">Career</li>
+            <li class="navbar__menu__item" data-link="#skills">Skills</li>
+            <li class="navbar__menu__item" data-link="#projects">Projects</li>
+            <li class="navbar__menu__item" data-link="#contact">Contact</li>
+        </ul>
+
+        <!-- Toggle button -->
+        <button class="navbar__toggle-btn">
+            <i class="fas fa-bars"></i>
+        </button>
+    </nav>
+
+    <!-- Home -->
+    <section id="home">
+        <div class="home__container">
+            <img src="./imgs/c.png" alt="Ella's profile photo" class="home__avatar">
+            <h1 class="home__title">Hello, <br /> I'm Hyesu Kim !</h1>
+            <h2 class="home__description">Web developer</h2>
+            <button class="home__contact">Contact Me</button>
+        </div>
+    </section>
+
+    <!-- Career -->
+    <section id="career" class="section">
+        <h1>Career</h1>
+        <p><b>개발 內</b></p>
+        <div class="about__jobs">
+            <div class="job__logo">
+                <img src="/imgs/megait_logo.png" width="170px">
+            </div>
+            <div class="job__description">
+                <h2>메가스터디 IT 아카데미</h2>
+                <div>• 2021.04 - 2021.10</div>
+                <div>• 웹 프로그래밍 교육 과정 수료</div>
+            </div>
+        </div>
+
+        <div class="about__jobs">
+            <div class="job__logo">
+                <img src="/imgs/laonpeople_logo.png" width="170px">
+            </div>
+            <div class="job__description">
+                <h2>(주) 라온피플</h2>
+                <div>• 2020.10 - 2020.12</div>
+                <div>• AI 알고리즘 연구 개발 보조 업무</div>
+            </div>
+        </div>
+
+        <div class="about__jobs">
+            <div class="job__logo">
+                <img src="/imgs/sang_logo.png" width="170px">
+            </div>
+            <div class="job__description">
+                <h2>대한상공회의소</h2>
+                <div>• 2020.04 - 2020.10</div>
+                <div>• SW 교육 과정 수료</div>
+            </div>
+        </div>
+
+        <p><b>개발 外</b></p>
+        <div class="about__jobs">
+            <div class="job__logo">
+                <img src="/imgs/SK_Hynix-Logo.wine.png" width="170px">
+            </div>
+            <div class="job__description">
+                <h2>(주) SK Hynix</h2>
+                <div>• 2017.10 - 2019.10</div>
+                <div>• 인사 급여 복리후생 업무</div>
+            </div>
+        </div>
+
+        <div class="about__jobs">
+            <div class="job__logo">
+                <img src="/imgs/ses_logo.gif" width="170px">
+            </div>
+            <div class="job__description">
+                <h2>(주) SES 모바일</h2>
+                <div>• 2016.10 - 2017.10</div>
+                <div>• 삼성전자 모바일 기기 제품 홍보 마케팅 업무</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills -->
+    <section id="skills" class="section">
+        <div class="section__container">
+            <h1>Skills</h1>
+            <div class="about__majors">
+                <div class="major">
+                    <div class="major__icon front__icon">
+                        <i class="fab fa-html5"></i>
+                    </div>
+                    <h2 class="major__title">Front-end</H2>
+                    <div class="major__description">
+                        HTML, CSS, JavaScript, jQuery,<br> 
+                        BootStrap, Web APIs
+                    </div>
+                </div>
+
+                <div class="major">
+                    <div class="major__icon back__icon">
+                        <i class="fab fa-java"></i>
+                    </div>
+                    <h2 class="major__title">Back-end</H2>
+                    <div class="major__description">
+                        Java, Python,<br>
+                        Spring, MySQL, MyBatis
+                    </div>
+                </div>
+
+                <div class="major">
+                    <div class="major__icon etc__icon">
+                        <i class="fab fa-github"></i>
+                    </div>
+                    <h2 class="major__title">ETC</h2>
+                    <div class="major__description">
+                        Linux,<br>
+                        Git, Jira, Slack
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" class="section">
+        <div class="section__container">
+            <h1>Projects</h1>
+            <div class="work__categories">
+                <button class="category__btn selected" data-filter="*">All
+                    <span class="category__count">12</span>
+                </button>
+                <button class="category__btn" data-filter="full-stack">Full stack
+                    <span class="category__count">4</span>
+                </button>
+                <button class="category__btn" data-filter="front-end">Front-end
+                    <span class="category__count">4</span>
+                </button>
+                <button class="category__btn" data-filter="toy">Toy
+                    <span class="category__count">4</span>
+                </button>
+            </div>
+
+            <div class="work__projects">
+                <!-- full stack -->
+                <a href="http://18.221.0.38:8080/main/member_main_view" class="project" target="blank" data-type="full-stack">
+                    <img class="project__img" src="/imgs/project_shoppingmall.PNG" alt="shoppingmall_site">
+                    <div class="project__description">
+                        <h3>Cosmetics Shopping Mall</h3>
+                        <span>21.08.30 - 21.09.30</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/inssagram" class="project" target="blank" data-type="full-stack">
+                    <img class="project__img" src="/imgs/project_sns.PNG" alt="SNS_site">
+                    <div class="project__description">
+                        <h3>SNS</h3>
+                        <span>21.08.11 - 21.08.30</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/memo" class="project" target="blank" data-type="full-stack">
+                    <img class="project__img" src="/imgs/project_memo.PNG" alt="memo_site">
+                    <div class="project__description">
+                        <h3>Notice Board Site</h3>
+                        <span>21.08.11 - 21.08.24</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/spring_quiz" class="project" target="blank" data-type="full-stack">
+                    <img class="project__img" src="/imgs/project_booking.PNG" alt="booking_site">
+                    <div class="project__description">
+                        <h3>Booking Site</h3>
+                        <span>21.08.05 - 21.08.10</span>
+                    </div>
+                </a>
+
+                <a href="http://18.118.29.32/" class="project" target="blank" data-type="front-end">
+                    <img class="project__img" src="/imgs/project_portfolio.PNG" alt="portfolio_site">
+                    <div class="project__description">
+                        <h3>Portfolio Site</h3>
+                        <span>Responsive Web</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/megabox" class="project" target="blank" data-type="front-end">
+                    <img class="project__img" src="/imgs/project_megabox.PNG" alt="megabox_site">
+                    <div class="project__description">
+                        <h3>Movie Site</h3>
+                        <span>21.04.06 - 21.04.19</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/paintjs" class="project" target="blank" data-type="front-end">
+                    <img class="project__img" src="/imgs/project_paintjs.PNG" alt="paintjs_site">
+                    <div class="project__description">
+                        <h3>Paint Site</h3>
+                        <span>21.03.19 - 21.03.20</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/web-standard-site01" class="project" target="blank" data-type="front-end">
+                    <img class="project__img" src="/imgs/project_standard.PNG" alt="standard_site">
+                    <div class="project__description">
+                        <h3>Web Standard Site</h3>
+                        <span>21.03.11 - 21.03.18</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/spring_quiz" class="project" target="blank" data-type="toy">
+                    <img class="project__img" src="/imgs/project_baemin.PNG" alt="baemin_site">
+                    <div class="project__description">
+                        <h3>Delivery Food Reviews</h3>
+                        <span>21.07.30</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/spring_quiz" class="project" target="blank" data-type="toy">
+                    <img class="project__img" src="/imgs/project_weather.PNG" alt="weather_site">
+                    <div class="project__description">
+                        <h3>Weather Forecast Site</h3>
+                        <span>21.07.29</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/servlet_test_server" class="project" target="blank" data-type="toy">
+                    <img class="project__img" src="/imgs/project_hong.PNG" alt="usedgoods_site">
+                    <div class="project__description">
+                        <h3>Used Goods Market</h3>
+                        <span>21.07.09 - 21.07.14</span>
+                    </div>
+                </a>
+
+                <a href="https://github.com/ellahyesu/servlet_test_server" class="project" target="blank" data-type="toy">
+                    <img class="project__img" src="/imgs/project_melon.PNG" alt="music_site">
+                    <div class="project__description">
+                        <h3>Music Site</h3>
+                        <span>21.07.06</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section">
+        <h1 class="contact__font">Contact</h1>
+        
+        <div class="contact__email">
+            <p class="contact__email">hyesukim@kakao.com</p>
+            <button onclick="copy()"><i class="copy__btn far fa-copy"></i></button>
+        </div>
+
+        <div class="contact__links">
+            <a href="https://blog.naver.com/ellahyesu">
+                <!-- blog: blog.naver.com/ellahyesu -->
+                <i class="contact__blog fas fa-blog"></i>
+            </a>
+
+            <a href="https://github.com/ellahyesu" target="__blank">
+                <i class="contact__git fab fa-github"></i>
+            </a>
+        </div>
+        <small class="contact__rights">© 2021. Hyesu Kim. All Rights Reserved.</small>
+    </section>
+
+    <!-- Arrow up -->
+    <button class="arrow-up">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+</body>
+
+</html>
