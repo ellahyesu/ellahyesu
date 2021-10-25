@@ -1,7 +1,8 @@
 <h1 align="center">안녕하세요. 백엔드 개발자 김혜수 입니다. 💖</h1>
 
 <p align="center">
-  Hi there! 👋&nbsp;  I'm <b>web developer</b> using Java. 👩‍💻<br/>
+  👉 https://ellahyesu.github.io/ <br/><br/>
+  Hi there! I'm <b>web developer</b> using Java. 👩‍💻<br/>
   I enjoy hiking, reading and traveling. ⛰ 📚 🌎<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
@@ -9,10 +10,8 @@
 <h3 align="center"> 📧 Contact</h3>
 <p align="center">
   <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:ellahyesu@naver.com" target="_blank"><img src="https://img.shields.io/badge/ellahyesu@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </p>
-<h3 align="center"> 🧰 Skills</h3>
-<h4 align="center">Languages & Platforms</h4>
+<h3 align="center"> 🧰 Skills & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 </p>
-<h4 align="center">Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -43,7 +41,7 @@
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ellahyesu&show_icons=true&theme=radical)
-
+<a href="mailto:ellahyesu@naver.com" target="_blank"><img src="https://img.shields.io/badge/ellahyesu@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
