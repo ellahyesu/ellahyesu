@@ -7,10 +7,7 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
-<h3 align="center"> 📧 Contact</h3>
-<p align="center">
-  <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-</p>
+
 <h3 align="center"> 🧰 Skills & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,6 +27,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+</p>
+<h3 align="center"> 📧 Contact</h3>
+<p align="center">
+  <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
 <br>
 <div align="center">
