@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -41,6 +40,8 @@
 
 
 <!--
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ellahyesu&show_icons=true&theme=radical)
 <a href="mailto:ellahyesu@naver.com" target="_blank"><img src="https://img.shields.io/badge/ellahyesu@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <p align="center">
