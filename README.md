@@ -1,5 +1,11 @@
-<h1 align="center">안녕하세요. <br>
+<h1 align="center">안녕하세요. <br/>
   웹 개발자 김혜수 입니다. 💖</h1>
+  
+<h3 align="center">
+<p align="center">
+ 👉 https://ellahyesu.github.io/ <br/>
+</p>
+</h3> 
 
 <h3 align="center"> 🧰 Skills & Tools</h3>
 <p align="center">
@@ -24,7 +30,7 @@
 <p align="center">
   <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 </p>
-<br>
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellahyesu&layout=compact&theme=radical">
 </div>
