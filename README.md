@@ -1,12 +1,5 @@
-<h1 align="center">안녕하세요. 백엔드 개발자 김혜수 입니다. 💖</h1>
-
-<p align="center">
-  👉 https://ellahyesu.github.io/ <br/><br/>
-  Hi there! I'm <b>web developer</b> using Java. 👩‍💻<br/>
-  I enjoy hiking, reading and traveling. ⛰ 📚 🌎<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
-</p>
-
+<h1 align="center">안녕하세요. <br>
+  웹 개발자 김혜수 입니다. 💖</h1>
 
 <h3 align="center"> 🧰 Skills & Tools</h3>
 <p align="center">
@@ -40,6 +33,15 @@
 
 
 <!--
+
+
+<p align="center">
+  👉 https://ellahyesu.github.io/ <br/><br/>
+  Hi there! I'm <b>web developer</b> using Java. 👩‍💻<br/>
+  I enjoy hiking, reading and traveling. ⛰ 📚 🌎<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
+
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ellahyesu&show_icons=true&theme=radical)
