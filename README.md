@@ -1,10 +1,10 @@
-<h1 align="center">웹 개발자 김혜수 입니다.</h1>
+<h2 align="center">웹 개발자 💖김혜수💖 입니다</h2>
   
-<h3 align="center">
-<p align="center">
- 　💖 https://ellahyesu.github.io/ 💖<br/>
-</p>
-</h3> 
+<h3 align="center"> -　Portfolio　- </h3>
+  <b><p align="center">
+  https://ellahyesu.github.io/
+  </p></b>
+<br/>
 
 <h3 align="center"> -　Skills & Tools　- </h3>
 <p align="center">
