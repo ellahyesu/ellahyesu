@@ -1,5 +1,5 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=180&section=header&text=서버 개발자 💖김혜수💖 입니다&fontSize=35" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=180&section=header&text=Back-end Developer&fontSize=35" width="100%">
 </header>
   
 <h3 align="center"> -　Portfolio　- </h3>
