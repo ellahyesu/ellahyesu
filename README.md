@@ -1,7 +1,3 @@
-<header>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA6588,100:5AACD7&height=180&section=header&text=Full-stack oriented Back-end Developer&fontSize=35" width="100%">
-</header>
-  
 <h3 align="center"> -　Portfolio　- </h3>
   <b><p align="center">
   https://ellahyesu.github.io/
@@ -36,17 +32,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 <br/>
-
-<h3 align="center"> -　Contact Me　- </h3>
-<p align="center">
-  <a href="https://blog.naver.com/ellahyesu" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-</p>
-
-
-<footer>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AACD7,100:FA6588&height=150&section=footer" width="100%">
-</footer>
-
 
 
 <!--
